@@ -1,0 +1,22 @@
+/* TEAM */
+
+Founder: Viv Slack
+Site: http://141chars.wordpress.com/
+Twitter: @vivslack
+Location: Manchester, Uk
+
+Designer: Rachel Oxton-King
+Twitter: @racheloxtonking
+Location: Uk    
+
+Logo Designer: Sarah Peel
+Twitter: @sahpeelx
+Location: Manchester, Uk                       
+
+UX Developer: Sam Gooch
+Twitter: @samgooch
+Location: Manchester, Uk
+
+Hosting: Jools Chesters
+Twitter: @mechanised
+Location: Manchester, Uk                 
